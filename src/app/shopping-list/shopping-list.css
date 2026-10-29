@@ -1,0 +1,8 @@
+span {
+  cursor: pointer;
+}
+
+.done span {
+  text-decoration: line-through;
+  color: #9aa5b1;
+}
