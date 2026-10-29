@@ -36,3 +36,7 @@ Finish `shopping-list.ts` and `shopping-list.html` until every test passes. Then
 - `(click)` and `(keyup.enter)` run your methods.
 - `@for (item of items(); track item.name) { ... } @empty { ... }` and `[class.done]="item.done"` draw the list.
 - To change one item, make a new list: `items.update(items => items.map(i => i === item ? { ...i, done: !i.done } : i))`. `{ ...i, done: ... }` is a copy of `i` with `done` changed.
+
+## Hand it in
+
+When it works, push your solution to a public repo of your own on GitHub, then paste that repo's address into **Submit your exercise** on the lesson page at [ask-codey.com](https://www.ask-codey.com). That's what completes the lesson. The lesson page shows the Git commands, step by step.
