@@ -1,8 +1,8 @@
-# Practice: Shopping List in Angular
+# Exercise: Shopping List in Angular
 
-Practice code for the lesson **Practice: Shopping List in Angular** in the C# Full-Stack Bootcamp on [ask-codey.com](https://www.ask-codey.com).
+Exercise code for the lesson **Exercise: Shopping List in Angular** in the C# Full-Stack Bootcamp on [ask-codey.com](https://www.ask-codey.com).
 
-You built a shopping list in plain JavaScript in *Practice: Shopping List and Calculator*. Now build it again in Angular, with signals, bindings, `@for` and `@if`, and notice how much code you don't have to write.
+You built a shopping list in plain JavaScript in *Exercise: Shopping List and Calculator*. Now build it again in Angular, with signals, bindings, `@for` and `@if`, and notice how much code you don't have to write.
 
 ## What's here
 
